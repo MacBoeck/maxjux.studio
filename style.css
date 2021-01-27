@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'MBfont';
+  src: url('/webfont/JetBrainsMono-Regular.woff2') format('woff2');
+}
+
+p {
+	font-family: MBfont;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: MBfont;
+}
